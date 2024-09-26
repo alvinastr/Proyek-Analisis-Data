@@ -21,3 +21,6 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run dashboard.py
 ```
+
+## LINK
+https://alvinastr-proyek-analisis-data-dashboarddashboard-64umgv.streamlit.app/
